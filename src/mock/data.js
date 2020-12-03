@@ -19,7 +19,7 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
-  paragraphOne: "I recently graduated and obtained Master's degree in computer engineering at Faculty of Electrical engineering, Mechanical engineering and Naval Architecture in Split, Croatia. I am fluent in English and have basic knowledge of German. My main goal is to enter the software development industry as a junior.",
+  paragraphOne: "I recently graduated and obtained Master's degree in electronics and computer engineering at Faculty of Electrical engineering, Mechanical engineering and Naval Architecture in Split, Croatia. I am fluent in English and have basic knowledge of German. My main goal is to enter the software development industry as a junior.",
   paragraphTwo: "I am a JavaScript developer with a good knowledge of ES6, SASS, CSS and ReactJS. Most recently I've been working with React and developed a couple of interesting project to showcase below.",
   paragraphThree: "I'm extremely eager to work and learn and I would be really excited to work in an environment that would push me in a full-stack direction. I also have experience with using C, C++, SQL, noSQL, GraphQL and GatsbyJS. You can see my recent projects below.",
   resume: '', // if no resume, the button will not show up
