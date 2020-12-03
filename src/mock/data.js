@@ -47,12 +47,12 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'project3.jpg',
-    title: '',
-    info: '',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    img: 'project3.png',
+    title: 'Vanilla JS and CSS animation',
+    info: 'As I wanted to showcase my Javascript skills I created a website where I will be putting small Javascript projects.',
+    info2: 'Every component-like project is presented with a card where you can check live demo. I will make sure I constantly add more mini-projects for practice, these css animations are cool.',
+    url: 'https://maverickcro.github.io/projects-showcase/',
+    repo: 'https://github.com/maverickcro/projects-showcase', // if no repo, the button will not show up
   },
 ];
 
